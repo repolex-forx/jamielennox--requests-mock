@@ -1,0 +1,11 @@
+{
+  "org": "jamielennox",
+  "repo": "requests-mock",
+  "versions": [
+    {
+      "commit": "9742d02a8cad17276dbeba7b300b6d27ae1b6fb1",
+      "tag": "",
+      "parsed_at": "2026-10-18T06:11:01.767433+00:00"
+    }
+  ]
+}
