@@ -213,6 +213,30 @@
       ],
       "ast": [
         "aggregate/ast/fba8cc7faf83be9f1505625d566721ee6c68ed39/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/fba8cc7faf83be9f1505625d566721ee6c68ed39.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.22",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "urllib3",
+          "ecosystem": "PYPI",
+          "version": "2.8.0",
+          "githubOrg": "urllib3",
+          "githubRepo": "urllib3",
+          "githubCommit": "b1d30ab61fe0db8f11092805e8c5ac43e091064a",
+          "githubTag": "2.8.0",
+          "githubUrl": "https://github.com/urllib3/urllib3",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/urllib3/response.py"
+        }
       ]
     }
   ],
